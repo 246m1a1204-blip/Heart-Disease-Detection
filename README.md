@@ -6,7 +6,7 @@ responsive web interface.<br/>
 
 
 🚀 Key Features
-AI Scan Engine: Automated diagnostic analysis of cardiac scans (MRI/ECG/X-Ray) with high confidence score tracking.
+AI Scan Engine: Automated diagnostic analysis of cardiac scans (MRI/ECG/X-Ray) with high confidence score tracking. 
 
 Clinical Chatbot: A 24/7 intelligent assistant powered by BioGPT to answer heart-safety queries and provide health protocols.
 
