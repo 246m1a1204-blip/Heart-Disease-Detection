@@ -1,8 +1,8 @@
 🫀 Heart Disease AI Portal
 
-This project is a clinical-grade AI diagnostics system designed to assist in early detection and 
-cardiovascular health monitoring. It integrates advanced machine learning models with a modern, 
-responsive web interface.
+This project is a clinical-grade AI diagnostics system designed to assist in early detection and <br/>
+cardiovascular health monitoring. It integrates advanced machine learning models with a modern, <br/>
+responsive web interface.<br/>
 
 
 🚀 Key Features
