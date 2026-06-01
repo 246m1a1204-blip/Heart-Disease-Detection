@@ -6,48 +6,48 @@ responsive web interface.<br/>
 
 
 🚀 Key Features
-AI Scan Engine: Automated diagnostic analysis of cardiac scans (MRI/ECG/X-Ray) with high confidence score tracking. 
+AI Scan Engine: Automated diagnostic analysis of cardiac scans (MRI/ECG/X-Ray) with high confidence score tracking. <br/>
 
-Clinical Chatbot: A 24/7 intelligent assistant powered by BioGPT to answer heart-safety queries and provide health protocols.
+Clinical Chatbot: A 24/7 intelligent assistant powered by BioGPT to answer heart-safety queries and provide health protocols. <br/>
 
-PDF Reporting: One-click professional clinical report generation for diagnostic outcomes.
+PDF Reporting: One-click professional clinical report generation for diagnostic outcomes. <br/>
 
-Secure Backend: Robust PostgreSQL database integration to track patient history and diagnostic logs.
+Secure Backend: Robust PostgreSQL database integration to track patient history and diagnostic logs. <br/>
 
-Voice Assistant: Hands-free interactions with the Clinical AI assistant.
+Voice Assistant: Hands-free interactions with the Clinical AI assistant. <br/>
 
-🛠 Tech Stack
-Frontend: React.js, Tailwind CSS, Vite (Glassmorphism UI)
+🛠 Tech Stack <b/>
+Frontend: React.js, Tailwind CSS, Vite (Glassmorphism UI) <br/>
 
-Backend: FastAPI (Python), Uvicorn
+Backend: FastAPI (Python), Uvicorn <br/>
 
-Database: PostgreSQL
+Database: PostgreSQL <br/>
 
-AI/ML: Custom Medical AI Pipeline for diagnostic synthesis.
+AI/ML: Custom Medical AI Pipeline for diagnostic synthesis. <br/>
 
-Heart-Disease-Detection/
-├── Backend/        # FastAPI Application & Postgres Config
-├── Frontend/       # React.js Dashboard & Chatbot Components
-└── .gitignore      # Git tracking configuration
+Heart-Disease-Detection/ <br/>
+├── Backend/        # FastAPI Application & Postgres Config <br/>
+├── Frontend/       # React.js Dashboard & Chatbot Components <br/>
+└── .gitignore      # Git tracking configuration <br/>
 
-💻 Installation & Setup
+💻 Installation & Setup <br/>
 
-1. Clone the repository:
-git clone https://github.com/246m1a1204-blip/Heart-Disease-Detection.git
+1. Clone the repository: <br/>
+git clone https://github.com/246m1a1204-blip/Heart-Disease-Detection.git <br/>
 
-2.Backend Setup:
+2.Backend Setup: <br/>
 
-cd Backend
-pip install -r requirements.txt
-python main.py
+cd Backend <br/>
+pip install -r requirements.txt <br/>
+python main.py <br/>
 
-3. Frontend Setup:
+3. Frontend Setup: <br/>
 
- cd Frontend
- npm install
- npm run dev
+ cd Frontend <br/>
+ npm install <br/>
+ npm run dev <br/>
 
-📋 Clinical Disclaimer
+📋 Clinical Disclaimer <br/>
 
-This system is an AI-assisted diagnostic tool. It does not replace professional medical advice. 
+This system is an AI-assisted diagnostic tool. It does not replace professional medical advice. <br/> 
 All critical cardiac diagnostic results should be validated by a certified medical doctor.
